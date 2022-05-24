@@ -1,11 +1,12 @@
 Testing how to use git
 Ask yourself...
 
-    Are you skilled at reviewing and understanding plans and specifications, and comparing completed work to the plans and specification requirements?
-    Are you well organized with a solid understanding of the construction industry?
+Are you skilled at reviewing and understanding plans and specifications, and comparing completed work to the plans and specification requirements?
+Are you well organized with a solid understanding of the construction industry?
 It is okay   
 If the answer to these questions is yes, then a career as a Quality Control Officer could be right for you
 Quality control officers make sure completed work and/or work in progress meets the requirements of the plans and specifications. In smaller organizations quality control officers may also perform other tasks.
+
 Quality control officers perform some or all of the following duties:
 
     Interpret and review shop drawings
