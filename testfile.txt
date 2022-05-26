@@ -14,3 +14,4 @@ Quality control officers perform some or all of the following duties:
     Monitor overall construction performance with regard to technical quality and compliance with design and specification requirements
     Note and report on work that does not meet requirements
     Educate workers on the required standards:
+.
